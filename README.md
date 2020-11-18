@@ -21,4 +21,4 @@ Land use zoning: https://data.wprdc.org/dataset/pgh/resource/c2cd7415-b401-4857-
 Overall, the best neighborhood, the relative intersection between the three data sets, is Regent Square. Regent Square has an education attainment rate of 44%, which is the second-highest in Anna's dataset. It also has a 1.18% crime rate according to the metric used in Dastan Abdulla's data set. While Regent Square doesn't have the lowest crime rate, many neighborhoods have a small margin of less than 2% crime rate in the public safety dataset, which renders the margin irrelevant in the overall scope.
 
 ## Abstract: 
-
+In this project, we analyze neighborhoods in the pittsburgh region and determine the best neighborhood. We use three data sets in order to achieve this task. The Public Safety dataset provides information such as crime rate, police reports, and murders for various areas. The education dataset provides information about the education level and income for the people in the neighborhoods. The land zoning data set provided information regarding zoning and types of property in those regions.
