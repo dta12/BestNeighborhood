@@ -8,7 +8,7 @@ Anna Speciale
 email: ams692@pitt.edu </br>
 Lucas Milavec
 email: lrm88@pitt.edu </br>
-## Conclusions and Links to the datasets used
+## Description/ Preanalysis and Links to the datasets used
 ### public safety dataset description
 The data set chosen below includes information related to the number of police reports and the percentage of those reports that were considered serious crimes such as rape and murder. There are two columns which are not needed for this project and they are the crime per 100 columns. The reason why they are not needed is because that is abstracted away from the concrete data already by the composers of the dataset and we want to create our own analysis. public safety is significant for the quality of neighborhood because it determines peace of mind for the people and their comfort level.
 ### education income dataset description
@@ -19,7 +19,7 @@ The zoning dataset includes information about the types of industries and buildi
 Public Safety: https://data.wprdc.org/dataset/pgh/resource/204f63f4-296f-4f1d-bbdd-946b183fa5a0 </br>
 Education Income: https://data.wprdc.org/dataset/pgh/resource/f7b19c6c-aa66-419b-b0e1-9998d7ddfcbc </br>
 Land use zoning: https://data.wprdc.org/dataset/pgh/resource/c2cd7415-b401-4857-8ca5-58ce2ec17c5d </br>
-## metrics
+## Metrics
 ### public safety: <br/>
 I created an Neighborhood class that had a scoring method. The method took into account murder rate, rape, drug violations, auto theft, burglary, robberies, and aggrevated assault. I then divided the total account of those crimes by the population of the neighborhood to determine a fixed scale for comparison to be able to deduce the best neighborhood in this category.
 ### land zoning: <br/>
