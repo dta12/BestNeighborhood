@@ -8,7 +8,7 @@ Anna Speciale
 email: ams692@pitt.edu </br>
 Lucas Milavec
 email: lrm88@pitt.edu </br>
-## Description/ Preanalysis and Links to the datasets used
+## Description/Pre-analysis and Links to the datasets used
 ### public safety dataset description
 The data set chosen below includes information related to the number of police reports and the percentage of those reports that were considered serious crimes such as rape and murder. There are two columns which are not needed for this project and they are the crime per 100 columns. The reason why they are not needed is because that is abstracted away from the concrete data already by the composers of the dataset and we want to create our own analysis. public safety is significant for the quality of neighborhood because it determines peace of mind for the people and their comfort level.
 ### education income dataset description
@@ -33,7 +33,7 @@ After a thorough analysis of the given data, we can conclude that the safest nei
 For the sake of simplicity in the end I decide to focus on the percentage of the populations that attained postgraduate degrees. By this logic the highest percentage of people with a postgraduate degree, the highest form of education in this data set, would be considered the "best" neighborhood. The data set shows that South Shore has the highest percentage at 47.6% or .476. I am not from Pittsburgh so I don't think I have a personal favorite neighborhood. I can't really speak on whether or not these data sets align properly with how good the neighborhoods are since I haven't spent time in most of them.
 ### Lucas Milavec's Conclusion (zoning)
 We can see that Knoxville, Friendship, and East Hills  are the top 3 highest scoring neighborhoods from my analysis. This seems to be consistent with what you would expect from such an analysis because they are relatively well off neighborhoods fairly far from the downtown area. This allows theses neighborhoods to have the balance their use of space and provides residents with a better living condition. However, I am not personally very familiar with all the neighborhoods of Pittsburgh so it is difficult for me to truly evaluate the quality of my analysis.
-### Final Conclusion
+### Overall Team Conclusion
 Overall, the best neighborhood, the relative intersection between the three data sets, is Regent Square. Regent Square has an education attainment rate of 44%, which is the second-highest in Anna's dataset. It also has a 1.18% crime rate according to the metric used in Dastan Abdulla's data set. While Regent Square doesn't have the lowest crime rate, many neighborhoods have a small margin of less than 2% crime rate in the public safety dataset, which renders the margin irrelevant in the overall scope.
 
 ## Abstract: 
